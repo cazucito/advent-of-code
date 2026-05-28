@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/java,visualstudiocode,gradle
-# Edit at https://www.toptal.com/developers/gitignore?templates=java,visualstudiocode,gradle
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,java,gradle
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,java,gradle
 
 ### Java ###
 # Compiled class file
@@ -71,4 +71,4 @@ gradle-app.setting
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
-# End of https://www.toptal.com/developers/gitignore/api/java,visualstudiocode,gradle
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,java,gradle
